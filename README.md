@@ -1,9 +1,9 @@
 # Python-Assignment-DA-2-Data-Visualization
 ## About This Project
 
-As part of my Data Analytics learning journey, I worked on this assignment to explore data visualization using Python.\
+As part of my Data Analytics learning journey, I worked on this assignment to explore data visualization using Python.
 
-For this project, I used the \*\*NYC Taxis Dataset\*\* to understand how raw data can be explored, cleaned, analyzed, and presented through different visualizations.
+For this project, I used the NYC Taxis Dataset to understand how raw data can be explored, cleaned, analyzed, and presented through different visualizations.
 
 My main focus was to get hands-on experience with Pandas, Matplotlib, and Seaborn and understand how visualizations help us find patterns and insights from data.
 

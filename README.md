@@ -76,3 +76,5 @@ This was a good learning experience for me as a beginner in Data Analytics. I go
 
 I'm gradually improving my Python skills through practical assignments, and this project is another step forward in my Data Analytics journey.
 
+## File Link
+https://drive.google.com/file/d/1uXsKBgZT5L0sxZW1QYnUECAXlhpdmWj3/view?usp=sharing
